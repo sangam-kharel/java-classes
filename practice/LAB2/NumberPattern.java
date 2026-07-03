@@ -1,3 +1,5 @@
+package com.mycompany.practice.LAB2;
+
 //4(iii)
 public class NumberPattern {
     public static void main(String[] args) {
